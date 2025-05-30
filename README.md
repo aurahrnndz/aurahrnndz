@@ -20,7 +20,7 @@ Mi objetivo es contribuir al desarrollo de productos confiables, eficientes y al
 
 ## 🚀 Proyectos destacados
 
-🔹 **[Automatización de pruebas - Urban Routes](https://github.com/aurahrnndz/qa-project)**  
+🔹 **[Automatización de pruebas - Urban Routes]([https://github.com/aurahrnndz/qa-project](https://github.com/aurahrnndz/qa-project-Urban-Grocers-app-es))**  
 Simulación automatizada de la solicitud de un taxi usando Selenium y el patrón Page Object Model.  
 
 🔹 **Testing funcional - Urban.Grocers**  
